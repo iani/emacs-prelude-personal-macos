@@ -1,0 +1,21 @@
+* current situation / available states for redefining
+
+1. [X] TODO
+2. [X] REVIEW
+3. [X] ACTIVE
+4. [available ] BAYAT
+5. [not available] DONE
+6. [not available] URGENT
+7. [not available] DELEGATED
+8. [not available] CANCELLED
+9. [available] POSTPONED
+10. WAIT
+
+* states i would like to use
+
+- DAILY
+- WEEKLY
+- MONTHLY
+- YEARLY
+- MILESTONE
+- DEADLINE
